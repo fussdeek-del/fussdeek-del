@@ -30,7 +30,7 @@ class NabeelAhmed:
         "Broccoli Board  — 84-key wireless mechanical keyboard (nice!nano V2 + ZMK + per-key RGB)",
         "The HUD         — Raspberry Pi Pico live system stats display",
         "GhostFlip       — AI-powered Flipper Zero clone (ESP32-S3 + Kendryte K210)",
-        "The Daily Brief — AI-generated daily podcast (NotebookLM + n8n automation)",
+        "ARIA            _ A AI that will do everything i say him in my system",
     ]
 
     domains = [
