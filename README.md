@@ -23,7 +23,7 @@
 ```python
 class NabeelAhmed:
     name     = "Nabeel Ahmed"
-    alias    = "fussdeek-del"
+    alias    = "fussdeek-del/Broccoli 🥦"
     location = "Punjab, Pakistan 🇵🇰"
 
     currently_building = [
