@@ -54,8 +54,8 @@ class NabeelAhmed:
 ### 🟢 [`Broccoli-board`](https://github.com/fussdeek-del/Broccoli-board)
 > 84-key wireless mechanical keyboard — custom black PCB, hot-swap switches, per-key WS2812B RGB, nice!nano V2 BLE, ZMK firmware, 3D-printed tray case with 804050 LiPo. Full KiCad pipeline to JLCPCB Gerbers.
 
-### 🟢 [`N-X-H-desktop-Hud`](https://github.com/fussdeek-del/N-X-H-desktop-Hud)
-> Live PC stats HUD — Raspberry Pi Pico + 2.4" ST7789V TFT displaying RAM/ROM/FPS/TIME. Custom KiCad PCB, FreeCAD enclosure, C++ firmware + Python companion app.
+### 🟢 [`001-Agent`](https://github.com/fussdeek-del/001-agent)
+> An autonomous AI agent built with LangChain and OpenAI capable of reasoning, tool use, and multi-step task execution. Deployed on Render.
 
 ### 🟡 [`Black-Flipper`](https://github.com/fussdeek-del/Black-Flipper)
 > Flipper Zero-inspired multi-tool — ESP32-S3 + Kendryte K210, AI-integrated. Sub-GHz, NFC, IR, BLE. Built from scratch, not a clone.
