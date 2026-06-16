@@ -28,8 +28,8 @@ class NabeelAhmed:
 
     currently_building = [
         "Broccoli Board  — 84-key wireless mechanical keyboard (nice!nano V2 + ZMK + per-key RGB)",
-        "The HUD         — Raspberry Pi Pico live system stats display",
-        "GhostFlip       — AI-powered Flipper Zero clone (ESP32-S3 + Kendryte K210)",
+        "001-Agent       — An autonomous AI agent built with LangChain and OpenAI capable of reasoning, tool use, and multi-step task execution.",
+        "Flipper Black   — AI-powered Flipper Zero clone (ESP32-S3 + Kendryte K210)",
         "ARIA            _ A AI that will do everything i say him in my system",
     ]
 
