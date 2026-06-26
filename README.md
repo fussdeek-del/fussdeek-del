@@ -22,7 +22,7 @@
 
 ```python
 class NabeelAhmed:
-    name     = "Nabeel Ahmed"
+    name     = "Broccoli 🥦"
     alias    = "fussdeek-del/Broccoli 🥦"
     location = "Punjab, Pakistan 🇵🇰"
 
