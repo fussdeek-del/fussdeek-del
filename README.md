@@ -67,7 +67,7 @@ class NabeelAhmed:
 > Personal AI assistant with full system automation hooks. Does what I tell it to.
 
 ### 🔵 [`Broccoli--board-zmk`](https://github.com/fussdeek-del/Broccoli--board-zmk)
-> ZMK firmware config for the Broccoli Board — custom DTS, keymap, RGB underglow, compiled via GitHub Actions CI.
+> ZMK firmware config for the Broccoli Board custom DTS, keymap, RGB underglow, compiled via GitHub Actions CI.
 
 ---
 
