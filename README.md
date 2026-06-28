@@ -58,7 +58,7 @@ class NabeelAhmed:
 > An autonomous AI agent built with LangChain and OpenAI capable of reasoning, tool use, and multi-step task execution. Deployed on Render.
 
 ### 🟡  [`Broccoli-board`](https://github.com/fussdeek-del/Broccoli-board)
-> 84-key wireless mechanical keyboard — custom black PCB, hot-swap switches, per-key WS2812B RGB, nice!nano V2 BLE, ZMK firmware, 3D-printed tray case with 804050 LiPo. Full KiCad pipeline to JLCPCB Gerbers.
+> 84-key wireless mechanical keyboard custom black PCB, hot-swap switches, per-key WS2812B RGB, nice!nano V2 BLE, ZMK firmware, 3D-printed tray case with 804050 LiPo. Full KiCad pipeline to JLCPCB Gerbers.
 
 ### 🟡 [`ai-audio-feed-extension`](https://github.com/fussdeek-del/ai-audio-feed-extension)
 > Nobody reads long-form feeds. This browser extension converts them into AI-narrated audio on the fly.
