@@ -51,14 +51,14 @@ class NabeelAhmed:
 
 ## `> ls /projects --pinned`
 
-### 🟢 [`Broccoli-board`](https://github.com/fussdeek-del/Broccoli-board)
-> 84-key wireless mechanical keyboard — custom black PCB, hot-swap switches, per-key WS2812B RGB, nice!nano V2 BLE, ZMK firmware, 3D-printed tray case with 804050 LiPo. Full KiCad pipeline to JLCPCB Gerbers.
+### 🟢[`Black-Flipper`](https://github.com/fussdeek-del/Black-Flipper)
+> Flipper Zero-inspired multi-tool — ESP32-S3 + Kendryte K210, AI-integrated. Sub-GHz, NFC, IR, BLE. Built from scratch, not a clone.
 
 ### 🟢 [`001-Agent`](https://github.com/fussdeek-del/001-agent)
 > An autonomous AI agent built with LangChain and OpenAI capable of reasoning, tool use, and multi-step task execution. Deployed on Render.
 
-### 🟡 [`Black-Flipper`](https://github.com/fussdeek-del/Black-Flipper)
-> Flipper Zero-inspired multi-tool — ESP32-S3 + Kendryte K210, AI-integrated. Sub-GHz, NFC, IR, BLE. Built from scratch, not a clone.
+### 🟡  [`Broccoli-board`](https://github.com/fussdeek-del/Broccoli-board)
+> 84-key wireless mechanical keyboard — custom black PCB, hot-swap switches, per-key WS2812B RGB, nice!nano V2 BLE, ZMK firmware, 3D-printed tray case with 804050 LiPo. Full KiCad pipeline to JLCPCB Gerbers.
 
 ### 🟡 [`ai-audio-feed-extension`](https://github.com/fussdeek-del/ai-audio-feed-extension)
 > Nobody reads long-form feeds. This browser extension converts them into AI-narrated audio on the fly.
