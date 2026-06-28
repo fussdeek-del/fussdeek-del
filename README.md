@@ -89,7 +89,7 @@ class NabeelAhmed:
 
 ```
 [STATUS]   building in public from Pakistan
-[TRACK]    Hack Club Fallout — competing for Shenzhen trip 🇨🇳
+[TRACK]    Hard lockin for SAT to get to MIT
 [LEARNING] AI Engineering · PCB Design · Embedded Firmware
 [GOAL]     Ship products that make real money
 [MODE]     solo builder, no team, no excuses
