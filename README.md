@@ -52,7 +52,7 @@ class NabeelAhmed:
 ## `> ls /projects --pinned`
 
 ### 🟢[`Black-Flipper`](https://github.com/fussdeek-del/Black-Flipper)
-> Flipper Zero-inspired multi-tool — ESP32-S3 + Kendryte K210, AI-integrated. Sub-GHz, NFC, IR, BLE. Built from scratch, not a clone.
+> Flipper Zero-inspired multi-tool ESP32-S3 + Kendryte K210, AI-integrated. Sub-GHz, NFC, IR, BLE. Built from scratch, not a clone.
 
 ### 🟢 [`001-Agent`](https://github.com/fussdeek-del/001-agent)
 > An autonomous AI agent built with LangChain and OpenAI capable of reasoning, tool use, and multi-step task execution. Deployed on Render.
