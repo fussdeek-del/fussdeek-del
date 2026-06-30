@@ -11,8 +11,8 @@
 
 **`fussdeek-del`** · AI Engineer · Hardware Builder · Giga Chad · Pakistan 🇵🇰
 
-[![GitHub followers](https://img.shields.io/github/followers/fussdeek-del?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)](https://github.com/fussdeek-del)
-[![Profile views](https://komarev.com/ghpvc/?username=fussdeek-del&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/fussdeek-del)
+[![GitHub followers](https://img.shields.io/github/followers/fussdeek-del?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)](https://github.com/Broccoliux)
+[![Profile views](https://komarev.com/ghpvc/?username=fussdeek-del&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/Broccoliux)
 
 </div>
 
