@@ -9,7 +9,7 @@
                                                                                 
 ```
 
-**`fussdeek-del`** · AI Engineer · Hardware Builder · Full-Stack Dev · Pakistan 🇵🇰
+**`fussdeek-del`** · AI Engineer · Hardware Builder · Giga Chad · Pakistan 🇵🇰
 
 [![GitHub followers](https://img.shields.io/github/followers/fussdeek-del?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)](https://github.com/fussdeek-del)
 [![Profile views](https://komarev.com/ghpvc/?username=fussdeek-del&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/fussdeek-del)
@@ -23,7 +23,7 @@
 ```python
 class NabeelAhmed:
     name     = "Broccoli 🥦"
-    alias    = "fussdeek-del/Broccoli 🥦"
+    alias    = "[Broccoliuxl/Broccoli] 🥦"
     location = "Punjab, Pakistan 🇵🇰"
 
     currently_building = [
